@@ -36,7 +36,7 @@ class Program
                     Console.WriteLine("Simulación de clic realizada. Descarga Realizada");
 
                     
-                    await page.WaitForTimeoutAsync(10000); // Espera 10 segundos (puede ser necesario ajustar esto)
+                    await page.WaitForTimeoutAsync(10000); 
 
 
                 }
@@ -51,9 +51,9 @@ class Program
 
     }
 
-    public static async Task Procesar_Archivo() {
+    public static  void  Procesar_Archivo() {
 
-        string fileName = "Reporte_precios_bajos.csv"; // Reemplaza con el nombre de tu archivo
+        string fileName = "Reporte_precios_bajos.csv"; 
         string downloadsFolder = Environment.GetFolderPath(Environment.SpecialFolder.UserProfile) + "\\Downloads";
         string filePath = Path.Combine(downloadsFolder, fileName);
 
