@@ -23,10 +23,11 @@ namespace ConsoleApp1.DataAccess
                     connectionBd.OpenConnection();
 
                     // Define la consulta SQL de actualización
-                    string query  = "UPDATE MiTabla SET MiColumna = @NuevoValor WHERE ID = @Id";
+                    string query  = "ActualizarGasolinera";
 
         
                     connectionBd.Update(query, GasStation);
+                     
                 }
                 catch (Exception ex)
                 {

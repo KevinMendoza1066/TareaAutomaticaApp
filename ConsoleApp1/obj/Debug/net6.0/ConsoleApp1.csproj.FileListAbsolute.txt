@@ -24,3 +24,10 @@ C:\Users\USER\Desktop\APPMOVIL\TareaAutomaticaApp\ConsoleApp1\obj\Debug\net6.0\r
 C:\Users\USER\Desktop\APPMOVIL\TareaAutomaticaApp\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
 C:\Users\USER\Desktop\APPMOVIL\TareaAutomaticaApp\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
 C:\Users\USER\Desktop\APPMOVIL\TareaAutomaticaApp\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+C:\Users\USER\Desktop\APPMOVIL\TareaAutomaticaApp\ConsoleApp1\bin\Debug\net6.0\Dapper.dll
+C:\Users\USER\Desktop\APPMOVIL\TareaAutomaticaApp\ConsoleApp1\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\USER\Desktop\APPMOVIL\TareaAutomaticaApp\ConsoleApp1\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\Desktop\APPMOVIL\TareaAutomaticaApp\ConsoleApp1\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\USER\Desktop\APPMOVIL\TareaAutomaticaApp\ConsoleApp1\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\USER\Desktop\APPMOVIL\TareaAutomaticaApp\ConsoleApp1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\Desktop\APPMOVIL\TareaAutomaticaApp\ConsoleApp1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
