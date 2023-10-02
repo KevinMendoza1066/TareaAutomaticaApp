@@ -2,7 +2,7 @@
 using System.Data.SqlClient;
 using Dapper;
 
-namespace ConsoleApp1.DataAccess
+namespace TareaAutomaticaGasFinder.DataAccess
 {
     public  class Conection
     {
