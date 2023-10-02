@@ -92,7 +92,7 @@ class Program
                         continue;
                     }
                     try {
-                            if (line == String.Empty ) {
+                            if (line == String.Empty || fields.Length>14) {
                                 continue;
                             }
                         operations.UpdateGasStations(new GasStationModel
